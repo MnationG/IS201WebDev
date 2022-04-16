@@ -1,0 +1,78 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.body {
+    background-color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.nodecoration{
+    text-decoration: none;
+    color:#ffffff
+}
+
+.italics{
+    font-style: italic;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.underline{
+    text-decoration: underline;
+    color:purple
+}
+
+.blue{
+    color:aqua;
+}
+
+.aligncenter{
+    text-align: center;
+    ;
+}
+
+.redbold{
+    color:red;
+    font-weight: bold;
+}
+
+.underlinefooter{
+    text-decoration: underline;
+}
+
+.indexbackground{
+    background-color: #d4c392;
+}
+
+.nuclear{
+    font-weight: bold;
+    color: orangered;
+    font-style:italic;
+}
+
+.professionalfont{
+    font-family: arial;
+    font-weight: bold;
+    font-display: uppercase;
+}
+
+.agriculturefont{
+    color:green;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.class101{
+    border:solid 2px white;
+}
+
+.basicbackground{
+    color:tan
+}
+.custombackground{
+    background-image: url("../Images/whitesnowbackground.jpg");
+    background-position: bottom right;
+    background-repeat: repeat;
+}

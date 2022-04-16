@@ -1,0 +1,107 @@
+.footerbody{
+    font-size: small;
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.common{
+    background-color: #ffffff;
+    border: solid 2px rgb(255, 255, 255);
+    position: absolute;
+    color:#ffffff;
+    font-size: 20px}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    text-align: right;
+    z-index: 1;
+    background-color: #000000;
+    text-decoration: none;}
+
+.mainbody{
+    text-align: center;
+    top: 115px;
+    bottom: 60px;
+    left: 5px;
+    right: 5px;
+    background-color: #ffffff;}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    color: #ffffff;
+    background-color: #000000;
+    text-align: center;
+    position: fixed; 
+    text-decoration: none;}
+
+.tableaubackground{
+    background-image: url(../Images/Data\ Background.jpg);
+    background-size: 170px;
+    background-position: left;
+    background-repeat: repeat;
+}
+
+.p{
+    color:black;
+}
+
+
+
+.subheader{
+    float:right;
+    text-transform: uppercase;
+    text-align: right;
+    font-family: sans-serif;
+    text-decoration: none;
+    margin-right: 17%;
+}
+
+.floatcenter{
+    float:center;
+    text-align: left;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 1000px;
+    position: relative;
+    margin-left: 20%;
+    border: solid 2px black;
+}
+
+.boxclass{
+    font-weight: bold;
+    text-align: center;
+    border-top: solid 2px black;
+}
+
+.nodecoration1{
+    text-decoration: none;
+    color:#ffffff
+}
+
+.footer3{
+    color:rgb(2, 197, 231);
+    font-weight: bolder;
+    size: 12pt;
+    text-decoration: none;
+}
+
+.nodecoration12{
+    text-decoration: underline;
+    color:#ffffff
+}
+
+.custombackgroundtableau{
+    background-image: url ("../Images/PatternBackground.png");
+    background-position: bottom right;
+    background-repeat: repeat;
+}
+
+.body22 {
+    background-color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
